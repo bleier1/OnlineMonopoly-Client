@@ -1,0 +1,14 @@
+c:\users\bryan\documents\visual studio 2015\Projects\MonopolyClient\MonopolyClient\bin\Debug\MonopolyClient.exe.config
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\MonopolyClient\MonopolyClient\bin\Debug\MonopolyClient.exe
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\MonopolyClient\MonopolyClient\bin\Debug\MonopolyClient.pdb
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\MonopolyClient\MonopolyClient\obj\Debug\MonopolyClient.exe
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\MonopolyClient\MonopolyClient\obj\Debug\MonopolyClient.pdb
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\MonopolyClient\MonopolyClient\obj\Debug\MonopolyClient.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\MonopolyClient\MonopolyClient\obj\Debug\MonopolyClient.ConnectToServer.resources
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\MonopolyClient\MonopolyClient\obj\Debug\MonopolyClient.csproj.GenerateResource.Cache
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\MonopolyClient\MonopolyClient\obj\Debug\MonopolyClient.MainWindow.resources
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\MonopolyClient\MonopolyClient\obj\Debug\MonopolyClient.PropertiesWindow.resources
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\MonopolyClient\MonopolyClient\obj\Debug\MonopolyClient.MortgageWindow.resources
+C:\Users\Bryan\documents\visual studio 2015\Projects\MonopolyClient\MonopolyClient\obj\Debug\MonopolyClient.TradeWindow.resources
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\MonopolyClient\MonopolyClient\obj\Debug\MonopolyClient.BuildingsWindow.resources
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\MonopolyClient\MonopolyClient\obj\Debug\MonopolyClient.Properties.Resources.resources
